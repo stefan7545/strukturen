@@ -1,0 +1,17 @@
+[
+  {
+    "legId": "",
+    "origin": {
+        "datetime": "",
+        "place": "",
+        "dynamisierung": "<OPTINAL -- will be used in later versions>"
+
+    },
+    "destination": {
+        "datetime": "",
+        "place": "",
+        "dynamisierung": "<OPTINAL -- will be used in later versions>"
+
+    }
+  }
+]
